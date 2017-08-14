@@ -1,0 +1,51 @@
+.portfolio h5 {
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+}
+
+.portfolio h6 {
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 45px;
+}
+
+.parallax h3 {
+	color: #f4f4f4;
+	margin: 50px 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.content {
+	margin: 20px 0;
+}
+
+.flex {
+	display: flex;
+	align-items: center;
+}
+
+.flex-item {
+	align-self: flex-start;
+}
+
+.aligner-item--bottom {
+	align-self: flex-end;
+}
+
+i {
+	font-size: 40px;
+	margin: 5px;
+}
+
+@media screen and (min-width: 661px) {
+	.row {
+		display: flex;
+		align-items: center;
+	}
+}
+
+.material-icons {
+	margin: 0 !important;
+}
