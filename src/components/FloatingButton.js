@@ -19,7 +19,11 @@ class FloatingButton extends Component {
 				>
 					<i className="large material-icons">account_box</i>
 				</a>
-				<ul style={{ visibility: 'visible' }}>
+				<ul
+					style={{
+						visibility: this.state.showFloatingButton ? 'visible' : 'hidden'
+					}}
+				>
 					<li>
 						<a
 							className="btn-floating"
