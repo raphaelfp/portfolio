@@ -28,9 +28,9 @@ Because Javascript is AWESOME!!!!!!!!
 About a month ago, I started to dive into the Javascript world. In the past, I've written some Javascript code for the company I work for, but when I started taking some React and NodeJS classes, I discovered that I didn't know anything about the Javascript world. Almost all my colleagues think Javascript is not really a programming language, or that is for lazy people, is not safe, full of bugs... And I have discovered that this is not true and I fell in love with Javascript.
 
 I've done some courses at [Udemy](https://www.udemy.com):
-* [Modern React with Redux](https://www.udemy.com/react-redux);
-* [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial);
-* [Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development)
+* [Modern React with Redux](https://www.udemy.com/react-redux) - [My certificate](https://www.udemy.com/certificate/UC-WQ9OZN2Z)
+* [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial) - [My certificate](https://www.udemy.com/certificate/UC-NILQN28W)
+* [Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development) - [My certificate](https://www.udemy.com/certificate/UC-16NOQE3N)
 
 And I'm also learning GraphQL, React Native, D3.js, and other Javascript Framework/Libraries.
 
