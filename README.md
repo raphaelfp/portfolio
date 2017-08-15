@@ -38,6 +38,6 @@ And I'm also learning GraphQL, React Native, D3.js, and other Javascript Framewo
 
 * [Linkedin](https://www.linkedin.com/in/raphaelfp)
 * [Github](https://www.github.com/raphaelfp)
-* [Portfolio](http://raphaelfp.github.io)
+* [Portfolio](https://raphaelfp.github.io)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
