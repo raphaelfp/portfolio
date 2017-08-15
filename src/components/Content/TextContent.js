@@ -16,9 +16,11 @@ const TextContent = ({
 	}
 }) => {
 	const renderTechStacks = () => {
-		return _.map(techStacks, ({ className, dataTip }) => {
+		return _.map(techStacks, tech => {
+			const { className, dataTip } = tech;
+			console.log(tech);
 			return (
-				<TechStackIcon className={className} data-tip={dataTip} key={dataTip} />
+				<TechStackIcon className={className} dataTip={dataTip} key={dataTip} />
 			);
 		});
 	};
