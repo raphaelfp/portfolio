@@ -17,7 +17,7 @@ const Header = props => {
 				</a>
 			</div>
 			<h5>RAPHAEL FERNANDES PEREIRA</h5>
-			<h6>SOFTWARE DEVELOPER • JAVASCRIPT LOVER </h6>
+			<h6>FULLSTACK SOFTWARE DEVELOPER • JAVASCRIPT LOVER </h6>
 		</div>
 	);
 };

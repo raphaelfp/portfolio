@@ -4,6 +4,7 @@ import Parallax from './Parallax';
 
 import Content from './Content/Content';
 import FloatingButton from './FloatingButton';
+import Footer from './Footer';
 import Header from './Header';
 import portfolio from './componentsData/portfolio';
 
@@ -29,7 +30,7 @@ class App extends Component {
 				<Header />
 				<Parallax background="./img/desk.jpg" title="Portfolio" />
 				{this.renderPortfolioApps()}
-
+				<Footer />
 				<FloatingButton />
 			</div>
 		);
