@@ -7,12 +7,12 @@ const Header = props => {
 			<div className="row" style={{ display: 'block' }}>
 				<a className="right" href="https://www.linkedin.com/in/raphaelfp/">
 					<FaLinkedin
-						style={{ margin: '10px', color: 'black', fontSize: '20px' }}
+						style={{ margin: '10px', color: 'black', fontSize: '30px' }}
 					/>
 				</a>
 				<a className="right" href="https://www.github.com/raphaelfp/">
 					<FaGithub
-						style={{ margin: '10px', color: 'black', fontSize: '20px' }}
+						style={{ margin: '10px', color: 'black', fontSize: '30px' }}
 					/>
 				</a>
 			</div>

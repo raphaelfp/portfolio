@@ -18,7 +18,6 @@ const TextContent = ({
 	const renderTechStacks = () => {
 		return _.map(techStacks, tech => {
 			const { className, dataTip } = tech;
-			console.log(tech);
 			return (
 				<TechStackIcon className={className} dataTip={dataTip} key={dataTip} />
 			);

@@ -1,6 +1,6 @@
 # Welcome to my Personal Website repo
 
-I built this site to show the apps I created or I'm working on.
+I built this website to show the apps I created or I'm working on.
 
 This personal website was built in React with the [Create React App](https://github.com/facebookincubator/create-react-app) tool by Facebook.
 
